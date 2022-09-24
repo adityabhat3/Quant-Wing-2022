@@ -8,7 +8,7 @@ import statsmodels.tsa.stattools as ts
 # (and change the api_key to a premium one if you have one)
 # and see it work for 10 stocks, but that would take a lot of time.
 
-MY_SYMBOL_LIST=["RELIANCE", "HDFC", "ADANIPORTS", "TCS", "INFY"]#, "TITAN", "HINDUNILVR", "BAJFINANCE", "ADANITRANS", "ICICIBANK" ]
+MY_SYMBOL_LIST=["RELIANCE", "HDFC", "ADANIPORTS", "TCS"]#, "INFY", "TITAN", "HINDUNILVR", "BAJFINANCE", "ADANITRANS", "ICICIBANK" ]
 
 # p-value significance limit
 
